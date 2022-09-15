@@ -1,0 +1,41 @@
+The time elapse or epoch 000 is: 00: 05: 00
+HR: 0.557	NDCG: 0.310
+The time elapse or epoch 001 is: 00: 05: 02
+HR: 0.613	NDCG: 0.351
+The time elapse or epoch 002 is: 00: 05: 23
+HR: 0.650	NDCG: 0.379
+The time elapse or epoch 003 is: 00: 04: 56
+HR: 0.661	NDCG: 0.384
+The time elapse or epoch 004 is: 00: 04: 55
+HR: 0.678	NDCG: 0.401
+The time elapse or epoch 005 is: 00: 04: 40
+HR: 0.681	NDCG: 0.404
+The time elapse or epoch 006 is: 00: 04: 39
+HR: 0.681	NDCG: 0.405
+The time elapse or epoch 007 is: 00: 04: 38
+HR: 0.689	NDCG: 0.411
+The time elapse or epoch 008 is: 00: 04: 39
+HR: 0.689	NDCG: 0.411
+The time elapse or epoch 009 is: 00: 04: 40
+HR: 0.685	NDCG: 0.409
+The time elapse or epoch 010 is: 00: 04: 41
+HR: 0.678	NDCG: 0.409
+The time elapse or epoch 011 is: 00: 04: 41
+HR: 0.686	NDCG: 0.414
+The time elapse or epoch 012 is: 00: 04: 39
+HR: 0.677	NDCG: 0.412
+The time elapse or epoch 013 is: 00: 04: 39
+HR: 0.687	NDCG: 0.415
+The time elapse or epoch 014 is: 00: 04: 38
+HR: 0.679	NDCG: 0.411
+The time elapse or epoch 015 is: 00: 04: 37
+HR: 0.677	NDCG: 0.410
+The time elapse or epoch 016 is: 00: 04: 37
+HR: 0.673	NDCG: 0.408
+The time elapse or epoch 017 is: 00: 04: 37
+HR: 0.676	NDCG: 0.410
+The time elapse or epoch 018 is: 00: 04: 38
+HR: 0.672	NDCG: 0.408
+The time elapse or epoch 019 is: 00: 04: 38
+HR: 0.673	NDCG: 0.409
+End. Best epoch 008: HR = 0.689, NDCG = 0.411
